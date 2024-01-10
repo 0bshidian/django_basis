@@ -1,0 +1,8 @@
+SECRET_KEY='django-insecure-xeru3f##_sp(s4juv5*qcups8l7zfy2%z&jq#67tatjf)0sah5'
+
+DB_ENGINE=
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB_PORT=

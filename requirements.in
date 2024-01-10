@@ -1,0 +1,10 @@
+Django
+psycopg2
+django-environ
+djangorestframework
+django-filter
+markdown
+
+# Security
+django-axes
+django-admin-honeypot-updated-2021
