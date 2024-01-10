@@ -1,6 +1,3 @@
-DJANGO_tp_note
-tp sur l'utilisation de Django
-
 Pour lancer : 
 - lancer une invite de commande 
 - à l'aide de *cd* se déplacer dans l'arborence des dossiers jusqu'à celui ou se trouve notre dossier
